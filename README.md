@@ -22,7 +22,7 @@ Supervisors:
 
 #### 4. Version history
 
-* v1.0.0(September 3, 2023)
+* [v1.0.0](https://github.com/momenTUM-research-platform/momenTUM-lightbot-data/releases/tag/v1.0.0) (September 3, 2023)
 
 
 #### 5. Questions, Feedback?
