@@ -22,7 +22,7 @@ Supervisors:
 
 #### 4. Version history
 
-* [v1.0.0](INSERT LINK) (September 3, 2023)
+* v1.0.0(September 3, 2023)
 
 
 #### 5. Questions, Feedback?
